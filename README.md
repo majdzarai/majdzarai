@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Affi-Amine.Affi-Amine" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine+Mayna+Affi!;" />
+    <img src="https://github.com/majdzarai/majdzarai/blob/main/356200184_3484815428432879_4140684771292088486_n.jpg?raw=true" width="200"" />
 </h1>
 
 <h3 align="center">A passionate Data Science and AI enthusiast from Tunisia 🇹🇳</h3>
