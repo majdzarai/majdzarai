@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Affi-Amine.Affi-Amine" />
 
 <h1 align="center">
-    <img src="[https://github.com/majdzarai/majdzarai/blob/main/356200184_3484815428432879_4140684771292088486_n.jpg?raw=true](https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/487219174_3952155788365505_1503930850558030518_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=qOZxnYhGPZwQ7kNvgHXMurH&_nc_oc=AdnuehInkKTqyEl8ygwIUIp-LRzEw2AV0XQV-pS87wHUMJJ7MEq1wOktFxv6t1YxHDI&_nc_zt=23&_nc_ht=scontent.ftun4-2.fna&_nc_gid=mzLCw5IegeFSxDig2LvzJQ&oh=00_AYFDi1DyaZ7C54D1rX0U-Vy_7cc8s3wUhGO2cPhquBaBog&oe=67F3933A)" width="200"" />
+    <img src="https://github.com/majdzarai/majdzarai/blob/main/356200184_3484815428432879_4140684771292088486_n.jpg?raw=true" width="200"" />
 </h1>
 
 <h3 align="center">A passionate Data Science and AI enthusiast from Tunisia 🇹🇳</h3>
